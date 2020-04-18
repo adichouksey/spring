@@ -1,0 +1,14 @@
+2020-04-19 01:36:53 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@504bae78
+2020-04-19 01:36:53 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-19 01:36:53 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [H:\1_capgemin\labbbook solutions\spring_mvc_rest\Employee 1.1\labook1.1\target\classes\com\mycompany\app\Employee.class]
+2020-04-19 01:36:53 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-19 01:36:53 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-19 01:36:53 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-19 01:36:53 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-19 01:36:53 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-19 01:36:53 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-19 01:36:53 DEBUG PropertySourcesPropertyResolver:115 - Found key 'empId' in PropertySource 'class path resource [employee.properties]' with value of type String
+2020-04-19 01:36:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'empName' in PropertySource 'class path resource [employee.properties]' with value of type String
+2020-04-19 01:36:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'empAge' in PropertySource 'class path resource [employee.properties]' with value of type String
+2020-04-19 01:36:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'empSalary' in PropertySource 'class path resource [employee.properties]' with value of type String
+2020-04-19 01:36:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'empBu' in PropertySource 'class path resource [employee.properties]' with value of type String
